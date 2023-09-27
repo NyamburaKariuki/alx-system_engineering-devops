@@ -1,2 +1,2 @@
-!#/bin/bash
-pwd displays the current working directory
+#!/bin/bash
+hi pwd displays the current working directory
