@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# script to troubleshoot apache2 on docker
+sudo service apache2 start
